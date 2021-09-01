@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truckerbug
 - 👀 I’m interested in coding, farming, outdoors, gaming, and more!
-- 🌱 I’m currently learning math, coding, gaming, and the sucky ways of having a broken hand.
+- 🌱 I’m currently learning math, coding, gaming, and more.
 - 💞️ I’m looking to collaborate on well not sure
 - 📫 How to reach me email me or youtube channel (The Ultimate S)
 - Reach my youtube here! https://www.youtube.com/channel/UCgybd7KyhD_bW1q4Go3OFHg
