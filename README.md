@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Truckerbug,
+# 👋 Hi, I’m @Truckerbug....
 👀 I’m interested in coding, farming, outdoors, gaming, and more!
 - 🌱 I’m currently learning. (everything)
 
