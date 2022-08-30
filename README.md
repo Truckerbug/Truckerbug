@@ -10,6 +10,6 @@ Discord: ```truckerbug#3547``` <br>
 256GB Storage
 16GB RAM
 ## 🏡 Links
-### [youtube](bit.ly/truckerbug11) <br>
-### [twitch](twitch.tv/truckerbug)
+### [youtube](https://bit.ly/truckerbug11) <br>
+### [twitch](https://twitch.tv/truckerbug)
 ### [rocket league stats](https://rocketleague.tracker.network/rocket-league/profile/epic/Truckerbug11/overview)
