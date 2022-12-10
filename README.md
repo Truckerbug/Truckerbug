@@ -14,4 +14,3 @@ Discord: ```truckerbug#3547``` <br>
 ### [twitch](https://twitch.tv/truckerbug) <br>
 ### [rocket league stats](https://rocketleague.tracker.network/rocket-league/profile/epic/Truckerbug11/overview) <br>
 ### [website](https://truckerbug.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
