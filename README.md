@@ -2,6 +2,8 @@
 
 I'm @Truckerbug. I do stuff, and this is my README.md (you're reading it right now!)
 
+[![typing thingy](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=I+write+code+(sometimes);I+play+Minecraft;I+like+figuring+out+how+stuff+works)](https://git.io/typing-svg)
+
 Anyway, that's about it.
 
 ## 📬 Contact me
